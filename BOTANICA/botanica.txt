@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>botanica</title>
+      
+     <style> 
+       h1 {
+       font-family: Arial, Helvetica, sans-serif;
+       }
+
+       p{
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+       }
+     </style>
+
+</head>
+<body>
+    <h1> <center> <img src="titulo.png" width="600" height="400" > </img> </center> </h1>
+
+<center>
+ <table> 
+ 
+ 
+  <tr> 
+
+
+ <td> <p> <font size="4"> La botánica es la disciplina científica que se ocupa del estudio, descripción </font>
+</p> 
+      <p> <font size="4"> y clasificación de las plantas, así como de sus relaciones entre sí, con otros </font>
+</p> 
+      <p> <font size="4"> organismos y con su entorno. Es una rama de la biología. </font>
+</p> 
+      <p> <font size="4"> La palabra, como tal, proviene del latín botanicus, que a su vez viene del  </font>
+</p> 
+      <p> <font size="4"> griego βοτανικός (botanikós), derivado de βοτάνη (botánē), que significa ‘hierba’. </font>
+</p>     
+      <p> <font size="4"> La botánica estudia principalmente los reinos plantae, que abarca las plantas terrestres; </font>
+ </p> 
+      <p> <font size="4"> fungi, que engloba a los hongos, y chromista, principalmente las algas.  </font>
+</p> 
+      <p> <font size="4"> Todos estos organismos tienen en común la presencia de cloroplastos y el no tener movilidad. </font>
+</p>  </td> 
+  
+    
+                    <td> <img src="botanica.avif" width="500" height="300" > </img>  </td> 
+  </tr>
+  
+  </table>
+</center>
+ 
+
+               <h1> <center> <img src="subtt.png" width="500" height="300" > </img> </center> </h1>
+
+               
+             <div> 
+                <ul>
+                     <font size="4">
+
+                 <li> <p> Fitoquímica: Se encarga de la composición química de las plantas. </p> </li>
+                 <li> <p> Citología vegetal: Estudia la organización celular. </p> </li>
+                 <li> <p> Histología vegetal: Se ocupa de la formación de los tejidos. </p> </li>
+                 <li> <p> Fisiología vegetal: Analiza el funcionamiento del metabolismo; </p> </li>
+                 <li> <p> Fitografía: Trata del crecimiento y desarrollo, así como de la morfología de las plantas. </p> </li>
+                 <li> <p> Genética vegetal: Se enfoca en asuntos como la reproducción y la herencia. </p> </li>
+                 <li> <p> Fitopatología: Engloba los estudios sobre las enfermedades en las plantas. </p> </li>
+                 <li> <p> Ecología: Son analizadas las relaciones con su medio ambiente.  </p> </li>
+                 <li> <p> Fitogeografía: Se ocupa de estudiar la distribución geográfica de las plantas. </p> </li>
+                 <li> <p> Paleobotánica: Se encarga de la investigación y análisis de fósiles de plantas. </p> </li>
+
+                      </font>
+                 </ul>
+              </div>
+
+                    <center> <img src="btn.jpeg" width="1300" height="250" > </img> </center>
+
+           <p> <font size="4"> Las plantas son muy importantes para la vida en el planeta Tierra, pues además de ser las principales
+               receptoras de la energía solar, también son responsables por la generación de oxígeno. Además, prácticamente 
+               todo lo que comemos o utilizamos está relacionado directa o indirectamente con las plantas y sus procesos.
+
+              Por otro lado, los conocimientos que proporciona una disciplina como la botánica son sumamente importantes para 
+              la vida y la ampliación del conocimiento científico, de allí que no solo los biólogos, sino los ingenieros agrónomos,
+              forestales, los farmacéuticos, los médicos y los antropólogos la estudien.
+
+              Las plantas son coleccionadas y catalogadas en herbarios. Allí se encuentran desecadas y descritas para su estudio y preservación.
+              También los jardines botánicos sirven a este propósito, pues contribuyen al estudio, preservación y difusión de la diversidad vegetal.
+              Y, a diferencia del herbario, en el jardín botánico las plantas son exhibidas vivas. </font> </p>
+
+            
+                    <h1> <center> <img src="subtitulo.png" width="500" height="300" > </img> </center> </h1>
+
+            
+        
+
+          <div>
+             <ul>
+                <font size="4">
+                
+              <li> <p> El término botánica pura se refiere a la estructura biológica y el crecimiento de las plantas, 
+                      así como a la forma en que se reproducen e interactúan con otros organismos de su entorno.
+                      Esto incluye cualquier información sobre la vida de las plantas que no esté relacionada con su uso
+                      para la humanidad u otras especies.</p> </li> 
+              <li> <p> La botánica aplicada es el estudio de las plantas utilizadas por el ser humano. Es importante que                
+                       los investigadores se mantengan al día de los avances en botánica aplicada, para poder seguir proporcionando 
+                       a la gente una nutrición y una medicina adecuadas. </p> </li> 
+
+                   </font>
+             </ul>
+         </div>
+
+                     <h1> <center> <img src="subtitulo3.png" width="500" height="300" > </img> </center> </h1>
+
+
+         <div>
+             <ul>
+                  <font size="4">
+
+                <li> <p> Se conoce también con el nombre de fitología. </p> </li>
+                <li> <p> Analiza desde organismos vegetales sencillos hasta plantas más complejas. </p>  </li>
+                <li> <p> Estudia tanto vegetales como plantas. </p>  </li>
+                <li> <p> Incluye el estudio del reino plantae, Fungi, protista y de hongos. También analiza organismos 
+                     como los líquenes, cianobacterias, musgos y setas. </p>   </li>
+                <li> <p> Es Existe dos grandes grupos en los que se puede dividir la botánica. La botánica pura que se encarga
+                     del estudio del Reino vegetal y la botánica aplicada que se enfoca en el análisis de los fines prácticos
+                     que se le pueden dar a este reino.una de las ramas de la biología. </p>  </li>
+                <li> <p> Es una ciencia relacionada también con otras áreas como la fisiología, fitografía, histología y la ecología. </p>  </li>
+                   </font>
+
+            </ul>
+        </div>
+<font size="6">
+           <a href="file:///D:/index.HTML" >Página principal </a>
+  </font>
+
+
+
+</body>
+</html>

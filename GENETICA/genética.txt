@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>genética</title>
+</head>
+<body>
+  <h1> <center> <img src="titulo.png" width="800" height="600" > </img> </center> </h1>
+
+ <h1>  <p> <font size="6"> ¿Qué es la Genética? <font> </p> </h1>
+
+<p> <font size= "4" > La genética es una rama de la biología que estudia cómo las características y los rasgos físicos se transmiten de una generación a otra. Para comprender esa herencia, examina los genes que se encuentran en las células del organismo y que poseen un código especial denominado ADN (ácido desoxirribonucleico). Este código determina el aspecto físico y las probabilidades de contraer determinadas enfermedades.
+
+Los genes funcionan como unidades de almacenamiento de información y contienen las instrucciones sobre cómo deben funcionar las células para formar las proteínas. Esas proteínas son las que dan lugar a todas las características del individuo. El ADN es una proteína que controla la estructura y el funcionamiento de cada célula y tiene la capacidad de crear copias exactas de sí mismo. El ARN (ácido ribonucleico) es una molécula que cumple la función de mensajero de la información del ADN. </p></font>
+
+
+<h1>  <p> <font size="6"> Importancia de la Genética <font> </p> </h1>
+
+ <p> <font size="5">La genética es una ciencia que estudia la transmisión de los caracteres hereditarios de un organismo, y su trayectoria evidencia que se trata de una ciencia de crecimiento exponencial. Sus aportes sobre la evolución de las especies y sobre dar soluciones a problemas congénitos o enfermedades resultan su mayor ventaja a pesar de que algunos experimentos van de la mano de controversias a nivel ético y filosófico, como por ejemplo, la clonación de animales.</p></font>
+
+<center> <img src="Genética.jpeg" width="400" height="250" > </img> </center>
+
+<h1>  <p> <font size="6"> Tipos de herencia genética <font> </p> </h1>
+
+
+<div>
+ <ul> <font size= "4" >
+
+     <li> <p> La herencia dominante-recesiva. Ocurre cuando uno de los alelos domina sobre otro y sus rasgos resultan dominantes. </p> </li>
+     <li> <p> La herencia dominante incompleta. Se produce cuando ninguno de los alelos domina obre el otro,
+              por lo que el rasgo en la descendencia es una mezcla de    ambos alelos. </p>  </li>
+     <li> <p> La herencia poli genética. Sucede cuando una característica individual es controlada por dos o más pares de genes y 
+              se expresa en forma de pequeñas diferencias. Por ejemplo, la altura.</p>  </li>
+    <li> <p> La herencia ligada al sexo ocurre cuando los alelos se encuentran en los cromosomas sexuales (corresponden al par número 23), 
+             que están representados por el signo “XY” en el varón y “XX” en la mujer. </p>  </li>
+
+
+ </ul> </font>
+
+</div>
+
+ <a href="file:///D:/index.HTML" >Página principal </a>
+
+
+
+
+    
+</body>
+</html>
